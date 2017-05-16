@@ -1,3 +1,3 @@
 git add --all ;
 git push -u origin master ;
-git commit -m "Update"
+git commit -m "$1"
